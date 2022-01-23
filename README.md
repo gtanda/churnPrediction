@@ -141,9 +141,7 @@ cltv (a customer value score), and churn reason which provided reasons as to why
 a customer churned were all dropped to avoid a bias and to minimize the number
 of features in our dataset. Other data that was removed included geographic data
 such as Country, State, City, zip code and latitude/longitude, since all data
-was from the California, USA. After
-
-dropping these features, ordinal encoding was applied to convert all nominal
+was from the California, USA. After dropping these features, ordinal encoding was applied to convert all nominal
 data to numeric data.
 
 For this project I have decided to use 2 different methods to try and find the
