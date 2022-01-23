@@ -92,9 +92,7 @@ common reasons such as bad experiences with customer service, finding better
 offers with competitors, or simply due to a company offering poor service
 [[9](#_bookmark8)]. It becomes clear that the value for companies is going to
 come from attempting to retain customers that are starting to fall into the
-voluntary
-
-churners category as they are leaving on their own volition rather than having
+voluntary churners category as they are leaving on their own volition rather than having
 their services ended by the company.
 
 Many authors have different ideas of what is best when it comes to evaluating
